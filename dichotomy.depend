@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1448347185 source:d:\project\dichotomy\main.cpp
+	<iostream>
+	<cmath>
+
